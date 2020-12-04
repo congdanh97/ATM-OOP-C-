@@ -1,0 +1,16 @@
+
+17:24:39   29/06/2019 100000VND  93163648VND   1100      rut     Khong co        Khong co       350637
+17:25:16   29/06/2019 300000VND  92852648VND   11000     chuyen  00000000000001  DO NHU PHONG   350638
+17:27:05   29/06/2019 200000VND  92651548VND   1100      rut     Khong co        Khong co       350640
+17:27:47   29/06/2019 250000VND  92390552VND   11000     chuyen  00000000000001  DO NHU PHONG   350642
+17:28:28   29/06/2019 500000VND  91889452VND   1100      rut     Khong co        Khong co       350644
+17:29:05   29/06/2019 0VND       91889452VND   0         lock    Khong co  	 Khong co       350645
+17:31:40   29/06/2019 0VND       91889452VND   0         lock    Khong co        Khong co       350646
+17:34:59   29/06/2019 0VND       91889452VND   0         lock    Khong co        Khong co       350647
+17:36:56   29/06/2019 350000VND  91528456VND   11000     chuyen  00000000000002  LE DINH TRUNG  350648
+17:40:56   29/06/2019 300000VND  91217456VND   11000     chuyen  00000000000001  DO NHU PHONG   350650
+17:54:54   29/06/2019 0VND       91217456VND   0         khoa    Khong co        Khong co       350652
+17:56:07   29/06/2019 100000VND  91115806VND   1650      rut     Khong co        Khong co       350654
+18:19:16   29/06/2019 200000VND  90914156VND   1650      rut     Khong co        Khong co       350656
+18:19:54   29/06/2019 300000VND  90603160VND   11000     chuyen  00000000000001  DO NHU PHONG   350658
+08:04:19   01/07/2019 100000VND  90501510VND   1650      rut     Khong co        Khong co       350661
